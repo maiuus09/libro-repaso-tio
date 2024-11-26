@@ -1,0 +1,2 @@
+Crear la carpeta capítulos y crear dentro de ella el archivo capitulo1.txt con el siguiente texto.
+Git es un sistema de control de versiones ideado por Linus Torvalds.
